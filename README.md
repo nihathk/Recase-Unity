@@ -39,7 +39,7 @@ Because the core game logic is entirely driven by Large Language Models (LLMs), 
 
 ## 🎮 Play the Game
 You can download and play the latest build of the game here:
-**[Download Recase (Google Drive)](https://drive.google.com/drive/folders/12m7KxEto6ey5ckgtkjpMksn1E89PUBTo?usp=sharing)**
+**[Download Recase (Google Drive)](https://drive.google.com/drive/folders/12m7KxEto6ey5ckgtkjpMksn1E89PUbTO?usp=drive_link)**
 
 ### How to Start:
 1. Download and extract the game files.
