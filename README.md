@@ -22,6 +22,17 @@ Because the core game logic is entirely driven by Large Language Models (LLMs), 
 * **Free-Text Interrogations:** Engage in natural, dynamic conversations. You are not limited to pre-written dialogue trees—type whatever you want to ask, pressure suspects, or confront them with the evidence you found.
 * **Smart Journal:** Keep track of your gathered evidence, clues, and suspect statements seamlessly with the automated in-game Smart Journal.
 
+## 🎮 Play the Game
+You can download and play the latest build of the game here:
+**[Download Recase (Google Drive)](https://drive.google.com/drive/folders/12m7KxEto6ey5ckgtkjpMksn1E89PUbTO?usp=drive_link)**
+
+### How to Start:
+1. Download and extract the game files.
+2. Get your free API Key from [GroqCloud](https://console.groq.com/).
+3. Launch the game executable.
+4. In the main menu, enter your Groq API key and select your preferred model.
+5. Start the game, observe the routines, interrogate the suspects, and catch the killer!
+
 ## 📸 Screenshots
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c6361ae2-f324-4392-901a-ab9959702c54" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1b949211-5893-4316-9112-a62ed21e0f97" />
@@ -39,14 +50,3 @@ Because the core game logic is entirely driven by Large Language Models (LLMs), 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ce9e400d-63d7-4925-9b57-1952ee9bcc17" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8eaa5e7d-699e-4ac8-a856-ddf690a906d0" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5b8918ad-565d-4762-80c6-7f3b76e343ca" />
-
-## 🎮 Play the Game
-You can download and play the latest build of the game here:
-**[Download Recase (Google Drive)](https://drive.google.com/drive/folders/12m7KxEto6ey5ckgtkjpMksn1E89PUbTO?usp=drive_link)**
-
-### How to Start:
-1. Download and extract the game files.
-2. Get your free API Key from [GroqCloud](https://console.groq.com/).
-3. Launch the game executable.
-4. In the main menu, enter your Groq API key and select your preferred model.
-5. Start the game, observe the routines, interrogate the suspects, and catch the killer!
