@@ -36,6 +36,9 @@ Because the core game logic is entirely driven by Large Language Models (LLMs), 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/294b2db0-1b7f-4ca5-88c6-c076346aeb25" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4592b198-0397-4376-90fe-9aedf3f99fb3" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1351a3e4-7f24-49bb-adf6-90eecaa3d089" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ce9e400d-63d7-4925-9b57-1952ee9bcc17" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8eaa5e7d-699e-4ac8-a856-ddf690a906d0" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5b8918ad-565d-4762-80c6-7f3b76e343ca" />
 
 ## 🎮 Play the Game
 You can download and play the latest build of the game here:
@@ -47,7 +50,3 @@ You can download and play the latest build of the game here:
 3. Launch the game executable.
 4. In the main menu, enter your Groq API key and select your preferred model.
 5. Start the game, observe the routines, interrogate the suspects, and catch the killer!
-
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ce9e400d-63d7-4925-9b57-1952ee9bcc17" />
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8eaa5e7d-699e-4ac8-a856-ddf690a906d0" />
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5b8918ad-565d-4762-80c6-7f3b76e343ca" />
