@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Recase-Unity
 
-![Unity](https://img.shields.io/badge/Unity-2022.3%2B-black?logo=unity)
+![Unity](https://img.shields.io/badge/Unity-3D-black?logo=unity)
 ![C#](https://img.shields.io/badge/C%23-Programming-blue?logo=c-sharp)
 ![Groq](https://img.shields.io/badge/Powered%20by-Groq-f55036)
 ![GenAI](https://img.shields.io/badge/GenAI-Integration-orange)
